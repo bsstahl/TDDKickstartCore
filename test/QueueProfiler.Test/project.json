@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": false
+  },
+
+  "testRunner": "xunit",
+
+  "dependencies": {
+    "dotnet-test-xunit": "2.2.0-preview2-build1029",
+    "LiquidNun": "0.5.3.26592",
+    "Microsoft.Extensions.DependencyInjection": "1.0.1",
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "1.0.1"
+    },
+    "Moq": "4.6.38-alpha",
+    "QueueProfiler": "1.0.0-*",
+    "QueueProfiler.Data": "1.0.0-*",
+    "TestHelperExtensions": "1.1.5",
+    "xunit": "2.1.0"
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": "dnxcore50"
+    }
+  }
+}
