@@ -8,7 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33200EEB-BF49-4009-B18D-4E9128B72E66}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
-		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "QueueProfiler", "src\QueueProfiler\QueueProfiler.xproj", "{7E58E35F-604D-402C-AFF2-7040ED62D0D7}"
